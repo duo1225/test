@@ -1,3 +1,3 @@
 # test FINDEE
 S'il y a des conflits des version, vous pouvez utiliser version de web pour tester;
-Terminal: 'npm stat' 'w'
+Terminal: 'npm start' 'w'
